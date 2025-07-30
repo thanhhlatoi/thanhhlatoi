@@ -52,11 +52,11 @@ I am on the way to become a FullStack Developer. I am not good but I will always
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhanKhoa79&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhhlatoi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanKhoa79&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhlatoi&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PhanKhoa79&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thanhhlatoi&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
